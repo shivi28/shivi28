@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: shivi28/github-activity-readme@master
+      - uses: shivi28/github.com/kubernetes-sigs/cluster-api-provider-aws@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
