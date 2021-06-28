@@ -9,7 +9,7 @@
 
 ### GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shivi28&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shivi28&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
