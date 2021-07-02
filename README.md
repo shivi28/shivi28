@@ -1,4 +1,4 @@
-### Hey there, I'm Shivani 👋, 
+### Hey there, I'm Shivani Singhal 👋, 
 ![](https://komarev.com/ghpvc/?username=shivi28&color=green)
 
 - 🔭 I’m currently working at [VMware](https://tanzu.vmware.com/) as a Software Engineer
