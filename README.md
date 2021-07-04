@@ -9,7 +9,7 @@
 
 ### GitHub Stats
 
-[Github stats](https://github-readme-stats.vercel.app/api?username=shivi28&count_private=true&show_icons=true&theme=dark)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=shivi28&count_private=true&show_icons=true&theme=dark)
 ---
 
 ### :zap: Recent Activity
