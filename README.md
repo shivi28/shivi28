@@ -15,10 +15,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#402](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/402) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 💪 Opened PR [#2601](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2601) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#2270](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2270) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 💪 Opened PR [#2600](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2600) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#2556](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2556) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#2263](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2263) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#397](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/397) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#2606](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2606) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. ❗️ Opened issue [#2606](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2606) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#397](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/397) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
