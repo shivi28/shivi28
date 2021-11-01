@@ -15,10 +15,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5551](https://github.com/kubernetes-sigs/cluster-api/issues/5551) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#2873](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2873) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 💪 Opened PR [#5551](https://github.com/kubernetes-sigs/cluster-api/pull/5551) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4. 🗣 Commented on [#2892](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2892) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#2892](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2892) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#2900](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2900) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#2888](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2888) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2900](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2900) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#2900](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2900) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#5551](https://github.com/kubernetes-sigs/cluster-api/issues/5551) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
