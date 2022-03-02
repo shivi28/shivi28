@@ -15,10 +15,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6212](https://github.com/kubernetes-sigs/cluster-api/pull/6212) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 💪 Opened PR [#3258](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3258) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#2871](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2871) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3254](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3254) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3245](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3245) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗️ Opened issue [#3268](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3268) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3099](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3099) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#6212](https://github.com/kubernetes-sigs/cluster-api/pull/6212) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 💪 Opened PR [#3258](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3258) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#2871](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2871) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
