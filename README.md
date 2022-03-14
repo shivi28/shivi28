@@ -36,6 +36,6 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/ShivaniS2804" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/twitter.svg" alt="shivi28" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/linkedin.svg" alt="shivi28" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shivani2804/" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/linkedin.svg" alt="shivi28" height="30" width="30" /></a>
 <a href="mailto:shivani.singhal2804@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
