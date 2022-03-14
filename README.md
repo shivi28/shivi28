@@ -26,11 +26,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6281](https://github.com/kubernetes-sigs/cluster-api/issues/6281) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#6281](https://github.com/kubernetes-sigs/cluster-api/issues/6281) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-3. 🗣 Commented on [#3293](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3293) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3317](https://github.com/kubernetes/org/issues/3317) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 🗣 Commented on [#3292](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3292) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3295](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3295) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. ❗️ Closed issue [#6281](https://github.com/kubernetes-sigs/cluster-api/issues/6281) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. 🗣 Commented on [#6281](https://github.com/kubernetes-sigs/cluster-api/issues/6281) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#3293](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3293) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3317](https://github.com/kubernetes/org/issues/3317) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
 
 **📫 How to Reach me:**
