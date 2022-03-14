@@ -20,7 +20,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivi28"></img>
 ### GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shivi28&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shivi28&count_private=true&show_icons=true&theme=dark)
 ---
 
 ### :zap: Recent Activity
