@@ -26,11 +26,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2953](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2953) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3312](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3312) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3255](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3255) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 💪 Opened PR [#3312](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3312) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#3309](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3309) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3245](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3245) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#2953](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2953) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3312](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3312) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3255](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3255) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#3312](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3312) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 **📫 How to Reach me:**
