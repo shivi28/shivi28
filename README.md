@@ -35,9 +35,23 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivi28&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=shivi28&theme=radical&hide_border=false" alt="GitHub Streak" height="180em" />
+  
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shivi28&theme=radical&hide_border=false&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats" 
+    height="180em" 
+  />
+  
+  <!-- GitHub Streak Stats Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=shivi28&theme=radical&hide_border=false" 
+    alt="GitHub Streak" 
+    height="180em" 
+  />
+
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivi28&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
