@@ -7,10 +7,11 @@
 </p>
 
 
-- 🔭 I’m currently working at [VMware](https://tanzu.vmware.com/) as a Software Engineer
-- 👯 Contributes to [Cluster API](https://github.com/kubernetes-sigs/cluster-api) and [CAPA provider](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+- 🔭 Learn about AI Agents and Building AI Products!!
+- 😊 Follow me on Twitter to #learnInPublic and #buildinpublic @ShivaniS2804
+- 👯 Contributed to [Cluster API](https://github.com/kubernetes-sigs/cluster-api) and [CAPA provider](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 - 😄 Pronouns: she/her
-- 💞️ You can reach me out on Slack with handle `@Shivani Singhal` 
+- 💞️ You can reach me out on Slack with handle `@Shivani Singhal`
 
 
 <!--   GitHub stats graph -->
