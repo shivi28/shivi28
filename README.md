@@ -25,11 +25,12 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/-CursorAI-5E3BFF?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-8A63D2?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
 
 ## 📊 GitHub Statistics
 
