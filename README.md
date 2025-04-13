@@ -79,6 +79,11 @@
   <a href="mailto:shivani.singhal2804@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://shivi28.github.io/">
+   <img src="https://img.shields.io/badge/Portfolio-Website-%230077B5.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
+
+ 
 </div>
 
 <div align="center">
