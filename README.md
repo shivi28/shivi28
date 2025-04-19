@@ -1,6 +1,6 @@
 # Hey there, I'm Shivani Singhal 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70100&width=435&lines=Learning+AI;Open+Source+Contributor;Cloud+Native+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E70100&width=435&lines=Learning+AI;Open+Source+Contributor;Cloud+Native+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/shivi28"><img src="https://visitor-badge.laobi.icu/badge?page_id=shivi28.shivi28" alt="visitors" id="visitor-badge"/></a>
