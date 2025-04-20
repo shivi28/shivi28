@@ -12,7 +12,7 @@
 
 - 🔭 Currently exploring AI Agents and Building AI Products
 - 🌱 Learning LLMs, RAG, and Vector Databases
-- 👯 Open Source Contributor to [Cluster API](https://github.com/kubernetes-sigs/cluster-api) and [CAPA provider](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+- 👯 Open Source Contributor to [Cluster API](https://github.com/kubernetes-sigs/cluster-api), [CAPA provider](https://github.com/kubernetes-sigs/cluster-api-provider-aws) and Cluster API provider for BYOH
 - 💬 Ask me about Cloud Native, Kubernetes, and AI Engineering
 - 😊 Follow me on Twitter to #learnInPublic and #buildinpublic [@ShivaniS2804](https://twitter.com/ShivaniS2804)
 - 😄 Pronouns: she/her
